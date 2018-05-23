@@ -8,4 +8,20 @@
 using namespace std; 
 int main() 
 {
+SetConsoleCP(1251); 
+	string k,input; 
+	unsigned int key; 
+	int i = 0, l = 0, max=26; 
+	char answer = '1'; 
+	cout « "Input key." « endl; 
+	cin » key; 
+	try 
+	{ 
+	}	
+	catch (int error) 
+	{ 
+	}	
+	return 0; 
+}
+
 }
